@@ -1,0 +1,6 @@
+.arrow:hover .arrow-svg {
+  stroke: #fff;
+}
+.arrow-svg {
+  stroke: #444444;
+}

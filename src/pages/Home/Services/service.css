@@ -1,0 +1,8 @@
+.arrow:hover > svg {
+  stroke: #fff;
+  fill: #fff;
+}
+.arrow {
+  stroke: #ff3811;
+  fill: #ff3811;
+}

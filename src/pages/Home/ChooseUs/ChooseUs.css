@@ -1,0 +1,19 @@
+.choose:hover p {
+  color: #fff;
+}
+
+.choose:hover .arrow {
+  stroke: #fff;
+  fill: #fff;
+}
+.arrow {
+  fill: #ff3811;
+}
+
+.choose:hover .time,
+.choose:hover .person,
+.choose:hover .equip,
+.choose:hover .guard,
+.choose:hover .delivery {
+  fill: #fff;
+}
